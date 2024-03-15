@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh'
+publishDir = "docs"
+title = '文文家的小可爱'
+theme = 'ananke'
